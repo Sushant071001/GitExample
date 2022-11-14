@@ -7,6 +7,9 @@ public class Test {
 
 		System.out.println("Hello World");
 		
+		System.out.println("ss");
+		System.out.println("uu");
+		
 	}
 
 }
